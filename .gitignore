@@ -1,0 +1,7 @@
+*.pem
+.vagrant/*
+*.ppk
+*.pub
+publickey
+*.log
+material-curso/*
